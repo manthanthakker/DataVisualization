@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-x=np.random.rand(10)
-y=np.random.rand(10)
+x=np.random.rand(20)
+y=np.random.rand(20)
 x.sort()
 y.sort()
 
